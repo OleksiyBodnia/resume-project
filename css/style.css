@@ -43,7 +43,16 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  width: 525px;
+  width: 625px;
+}
+.project-item-p{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 625px;
+  margin: 0 0 8px 0;
 }
 .about-me {
   margin-bottom: 64px;
