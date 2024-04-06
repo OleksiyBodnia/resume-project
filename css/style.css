@@ -5,6 +5,16 @@ body {
   position: relative;
   margin: 0;
 }
+.city{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 625px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
 
 /* wrapper */
 .wrapper {
@@ -21,6 +31,7 @@ body {
 /* main-content */
 .contact-list{
   padding-left: 15px;
+  margin-bottom: 5px;
 }
 .main-content {
   padding: 88px;
@@ -47,7 +58,7 @@ body {
 .my-descr {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #595959;
   width: 625px;
@@ -55,7 +66,7 @@ body {
 .project-item-p{
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #595959;
   width: 625px;
@@ -68,7 +79,7 @@ body {
 .main-content-title {
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 16px;
   line-height: 27px;
   color: #000000;
   margin: 0 0 12px 0;
@@ -98,7 +109,7 @@ body {
 .project-item-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   text-decoration-line: underline;
   color: #005fff;
@@ -110,13 +121,13 @@ body {
 .work-experience-position {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 20px;
   color: #000000;
   margin: 0;
 }
 .work-experience-place {
-  margin-bottom: 16px;
+  margin-bottom: 15px;
 }
 .work-experience-company {
   color: #6d9bf5;
@@ -125,15 +136,15 @@ body {
 .work-period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 15px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #595959;
   margin: 12px 0 8px 0;
 }
 .work-duties {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #595959;
 }
@@ -149,7 +160,7 @@ body {
 .education-place {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 20px;
   color: #6d9bf5;
   margin-bottom: 12px;
@@ -158,7 +169,7 @@ body {
 .education-management {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 17px;
   color: #000000;
   margin-bottom: 12px;
@@ -166,9 +177,9 @@ body {
 .education-period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 15px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #595959;
 }
 
 
@@ -192,7 +203,7 @@ body {
 .sidebar-title {
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 16px;
   line-height: 27px;
   color: #161d2a;
   margin-bottom: 8px;
@@ -213,14 +224,14 @@ body {
 .contacts-number {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
-  color: #161d2a;
+  color: #2979ff;
 }
 .contacts-email {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #2979ff;
 }
@@ -236,7 +247,7 @@ body {
 .skill-list-text {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 24px;
   color: #161d2a;
 }
