@@ -10,10 +10,11 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #005fff;
   width: 625px;
   margin-top: 0;
   margin-bottom: 0;
+  padding-left: 14px;
 }
 
 /* wrapper */
@@ -71,6 +72,16 @@ body {
   color: #595959;
   width: 625px;
   margin: 0 0 8px 0;
+}
+
+.project-item-p1{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #595959;
+  width: 625px;
+  margin: 0 0 0 0;
 }
 .about-me {
   margin-bottom: 64px;
